@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hit_label">Hit</string>
+    <string name="stand_label">Stand</string>
+</resources>
